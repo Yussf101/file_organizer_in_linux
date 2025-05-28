@@ -1,5 +1,5 @@
 # file_organizer_in_linux
-A multilingual file organizer script that sorts files into categorized folders (e.g., Images, Documents) based on their type.
+A multilingual file organizer script that sorts files into categorized folders (e.g., Images, Documents, videos, archives) based on their type.
 
 
 ##  Steps to Run the Script
