@@ -4,12 +4,12 @@ A multilingual file organizer script that sorts files into categorized folders (
 
 ##  Steps to Run the Script
 
-- **1 .Make it executable.**  
+- **1 .Make it executable: type **  
   ```bash
   chmod +x file_organizer.sh
   ```
 
-  - **2 .Run the script.**
+  - **2 .Run the script: **
  ```bash
   ./file_organizer.sh
   ```
